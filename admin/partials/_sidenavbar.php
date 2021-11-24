@@ -28,13 +28,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="/blog-add.php" class="nav-link">
+                <a href="/admin/blog-add.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/blog-view.php" class="nav-link">
+                <a href="/admin/blog-view.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>View</p>
                 </a>
@@ -51,13 +51,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="/report-add.php" class="nav-link">
+                <a href="/admin/report-add.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/report-view.php" class="nav-link">
+                <a href="/admin/report-view.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>View</p>
                 </a>
@@ -74,13 +74,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="/infographic-add.php" class="nav-link">
+                <a href="/admin/infographic-add.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Add</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/infographic-view.php" class="nav-link">
+                <a href="/admin/infographic-view.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>View</p>
                 </a>
